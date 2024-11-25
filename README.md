@@ -50,7 +50,7 @@ Hi, I’m **Nilesh Mukherji** – a technology enthusiast, finance innovator, an
 ## 📫 Let’s Connect
 - 🌐 [Portfolio Website](#) *(Coming Soon!)*  
 - 💼 [LinkedIn](https://linkedin.com/in/nilesh-mukherji)  
-- ✉️ Email: [nilesh.mukherji@gmail.com](mailto:nilesh.mukherji@gmail.com)  
+- ✉️ Email: [nileshmukherji@gmail.com](mailto:nileshmukherji@gmail.com)  
 
 ---
 
