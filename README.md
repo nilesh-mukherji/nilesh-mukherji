@@ -63,8 +63,8 @@ Hi, I’m **Nilesh Mukherji** – a technology enthusiast, finance innovator, an
 ---
 
 ## 📊 GitHub Stats
-![Nilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nileshmukherji&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshmukherji&layout=compact&theme=radical)
+![Nilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilesh-mukherji&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh-mukherji&layout=compact&theme=radical)
 
 ---
 
