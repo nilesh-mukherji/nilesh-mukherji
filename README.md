@@ -57,9 +57,6 @@ Hi, I’m **Nilesh Mukherji** – a technology enthusiast, finance innovator, an
 ## 🌍 Fun Facts About Me
 - 🎸 I love playing the guitar to unwind.  
 - 🍳 A foodie at heart, always experimenting in the kitchen.  
-- 🕰️ Enthusiast of horology (fascinated by watches).  
-- 🎾 Avid tennis player and fitness fan.
-
 ---
 
 ## 💡 Goals
